@@ -163,7 +163,7 @@ function LandingPage() {
 
         <div class="flex items-center border-2 rounded drop-shadow-md py-20 my-10 lg:px-8" aria-label="Global">
           <img src={RecommendedProduct1} class="px-10"></img>
-          <div class="text-6xl mx-10 font-semibold">1</div>
+          <div class="text-6xl mx-10 font-semibold">2</div>
           <div class="mx-auto text-center text-2xl" style={{ lineHeight: "3rem" }}>
             <p class="font-bold">Atelier Nain</p>
             <p class="text-gray-400">KNIT CROCHET CARDIGAN</p>
@@ -172,7 +172,7 @@ function LandingPage() {
         </div>
         <div class="flex items-center border-2 rounded drop-shadow-md py-20 my-10 lg:px-8" aria-label="Global">
           <img src={RecommendedProduct2} class="px-10"></img>
-          <div class="text-6xl mx-10 font-semibold">1</div>
+          <div class="text-6xl mx-10 font-semibold">3</div>
           <div class="mx-auto text-center text-2xl" style={{ lineHeight: "3rem" }}>
             <p class="font-bold">Joorti</p>
             <p class="text-gray-400">VOLUME TIE BLOUSE</p>
